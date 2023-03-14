@@ -1,0 +1,376 @@
+body{
+    background-color: white;
+    height: 100vh;
+}
+nav{
+    width: 100%;
+    height: fit-content;
+    border: 1px solid #60606086;
+    border-left: none;
+    border-right: none;
+    display: flex;
+    justify-content: space-between;
+}
+.youtube-nav{
+    width: 169px;
+    height: 56px;
+    border: 1px solid transparent;
+    display: flex;
+    margin-left: 17px;
+}
+.bars{
+    width: 40px;
+    height: 40px;
+    border: 1px solid transparent;
+    margin-top: 6px;
+}
+#bars{
+    width: 24px;
+    height: 24px;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.youtube-logo{
+    border: 1px solid transparent;
+    width: 90px;
+    height: 20px;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+#youtube-logo{
+    width: fit-content;
+    height: fit-content;
+}
+.country-code{
+    color: #606060;
+    font-size: 10px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.search-box{
+    border: 1px solid transparent;
+    width: 630px;
+    height: 40px;
+    display: flex;
+    margin-left: 430px;
+    margin-top: 8px;
+}
+#magnifying-glass{
+    width: 40px;
+    height: 20px;
+    color: #030303;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#Search{
+    width: 538px;
+    height: 40px;
+    margin-left: -15px;
+}
+.search-right{
+    width: 64px;
+    height: 38px;
+    background-color: #f0f0f0;
+    border: 1px solid gray;
+}
+#magnifying-glass-right{
+    width: 40px;
+    height: 20px;
+    font-size: 20px;
+    color: #030303;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.microphone{
+    width: 40px;
+    height: 40px;
+    border: 1px solid transparent;
+    border-radius: 60px;
+    margin-left: 10px;
+    margin-top: 7px;
+    background-color: #f0f0f0;
+}
+#microphone{
+    margin-left: 13px;
+    margin-top: 12px;
+}
+.motherfor-youtubenav{
+    border: 1px solid blue;
+    display: flex;
+}
+.youtube-three{
+    border: 1px solid red;
+    display: flex;
+    /* padding-left: 10px; */
+    width: fit-content;
+    height: fit-content;
+    /* margin-left: 320px; */
+    /* margin-top: 7px; */
+}
+.youtube-apps{
+    border: 1px solid transparent;
+    width: 40px;
+    height: 40px;
+}
+#grdd{
+    width: 20px;
+    height: 20px;
+    margin-top: 6px;
+    margin-left: 6px;
+}
+.elipss{
+    border: 1px solid transparent;
+    width: 40px;
+    height: 40px;
+    margin-left: 20px;
+}
+#elips{
+    margin-top: 10px;
+    margin-left: 15px;
+}
+#sign-up{
+    margin-top: 5px;
+    margin-left: -18px;
+    display: flex;
+}
+.signup{
+    width: 108.75px;
+    height: 40px;
+    border: 1px solid #065fd4;
+    margin-left: 20px;
+}
+.signn{
+    color: #065fd4;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    margin-left: 40px;
+    margin-top: -50px;
+}
+.-sign{
+    border: 1px solid transparent;
+    width: fit-content;
+    height: fit-content;
+    margin-top: -25px;
+}
+#main{
+    border: 2px solid whitesmoke;
+    width: 240px;
+    height: 1130px;
+}
+.Home-ul{
+    list-style: none;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 15px;
+    font-weight: 450;
+    line-height: 2rem;
+    margin-left: -20px; 
+}
+li{
+    display: flex;
+}
+.span-s{
+    margin-top: -4px;
+}
+.span-cs{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 15px;
+    font-weight: 450;
+    line-height: 1rem;
+    margin-left: 25px;
+}
+.signupp{
+    width: 108.75px;
+    height: 30px;
+    border: 1px solid #065fd4;
+    margin-left: 20px;
+    margin-top: 13px;
+}
+.-sign{
+    border: 1px solid transparent;
+    width: fit-content;
+    height: fit-content;
+    margin-top: -22px;
+}
+.text-best{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #606060;
+    font-weight: 500;
+    font-size: 14px;
+    margin-left: 18px;
+}
+.divshadow{
+    width: 24px;
+    height: 24px;
+    border: 1px solid red;
+    border-radius: 60px;
+}
+.img-s{
+    width: 24px;
+    height: 24px;
+    border-radius: 60px;
+}
+a{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: 500;
+    color: black;
+}
+.a-div{
+    border: 1px;
+    width: fit-content;
+    height: fit-content;
+    margin-left: 20px;
+}
+main{
+    border: 1px solid whitesmoke;
+    width: 100%;
+    height: 100vh;
+}
+.big-main{
+    display: flex;
+}
+.overflow-li{
+    border: 1px solid gray;
+    width: fit-content;
+    height: 20px;
+    border-radius: 20px;
+    padding: 5px;
+    margin-left: 10px;
+    margin-top: 2px;
+    background-color: #90909017;
+}
+.overflow-ul{
+    border: 0px;
+    width: 1700px;
+    height: 40px;
+    display: flex;
+    overflow: scroll;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+}
+.overflow-ul::-webkit-scrollbar {
+    width: 2px;
+    height: 2px;
+}
+ 
+.overflow-ul::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    height: 2px;
+}
+ 
+.overflow-ul::-webkit-scrollbar-thumb {
+  background-color: darkgrey;
+  outline: 1px solid slategrey;
+  height: 2px;
+}
+section{
+    border: 1px solid white;
+    width: 100%;
+    height: 292px;
+    background-color: white;
+}
+.premium{
+    width: 320px;
+    height: 24px;
+    border: 1px solid white;
+}
+h2{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 700;
+    font-size: 33px;
+}
+.gett{
+    color: #065fd4;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 7px;
+}
+.get{
+    border: 2px solid #065fd4;
+    width: 113.42px;
+    height: 37px;
+    margin-top: 10px;
+}
+#premium{
+    border: 1px solid white;
+    width: fit-content;
+    height: fit-content;
+    margin-left: 130px;
+    margin-top: 40px;
+}
+.laptop{
+    
+}
+.laptopp{
+    width: fit-content;
+    height: fit-content;
+    border: 0px;
+    margin-left: 450px;
+    margin-top: -230px;
+    z-index: 0;
+    top: 40px;
+}
+.section-2{
+    border: 0px;
+    background-color: #f9f9f9;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: fit-content;
+    height: fit-content;
+}
+.div-section{
+    border: 1px solid transparent;
+    width: 400px;
+    height: 300px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.vid{
+    border: 0px;
+    margin-left: 40px;
+    margin-top: -30px;
+}
+.v-image{
+    border-radius: 60px;
+    width: 36px;
+    height: 36px;
+}
+.smal-div{
+    border: 0px solid;
+    display: flex;
+    width: 320px;
+    margin-left: 40px;
+    margin-top: -28px;
+}
+.s1{
+    border: 0px;
+    margin-left: 10px;
+    width: fit-content;
+    height: fit-content;
+}
+.sxz{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+}
+.sdf{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    color: grey;
+}
+#elipq{
+    float: right;
+    margin-left: 9px;
+}
+li:hover{
+    background-color: rgba(128, 128, 128, 0.445);
+}
+.overflow-li:hover{
+    background-color: rgba(128, 128, 128, 0.445);
+}
